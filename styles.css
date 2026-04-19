@@ -697,8 +697,8 @@ body {
     }
 }
 
-/* ---- Info Icon (table header) ---- */
-.info-icon {
+/* ---- Table Header Info Icon ---- */
+.th-info {
     display: inline;
     font-size: 0.7rem;
     opacity: 0.5;
