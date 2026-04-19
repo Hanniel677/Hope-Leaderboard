@@ -1,0 +1,12 @@
+{
+  "name": "hope-leaderboard",
+  "version": "1.0.0",
+  "description": "HOPE Tracker - LeetCode Leaderboard",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

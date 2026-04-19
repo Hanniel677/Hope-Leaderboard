@@ -32,85 +32,39 @@ const MIME = {
 };
 
 // ---------- Participant Data ----------
-const PARTICIPANTS = [
-    { name: "Thilamaren S S", branch: "CSE", college: "St. Joseph's College of Engineering", username: "thilamaren_" },
-    { name: "Ganesh Kumaar B", branch: "AI", college: "St. Joseph's College of Engineering", username: "upNrLbHogs" },
-    { name: "Kartheesh Shankar", branch: "AIML", college: "St. Joseph's College of Engineering", username: "K6N78Wp7dH" },
-    { name: "Leon Raj J", branch: "CSE", college: "St. Joseph's College of Engineering", username: "leonraj" },
-    { name: "Jayden Jeswin Raj G", branch: "CSE", college: "St. Joseph's College of Engineering", username: "PhoenixKiller" },
-    { name: "Viviyan Prince P", branch: "CSE", college: "St. Joseph's College of Engineering", username: "viviyanprince1212" },
-    { name: "Dhanush Raj VR", branch: "AIML", college: "St. Joseph's College of Engineering", username: "020308" },
-    { name: "Harish Balaji R", branch: "CSE", college: "St. Joseph's College of Engineering", username: "HarishBalajiR" },
-    { name: "Thirupathi Selvaraj V R", branch: "CSE", college: "St. Joseph's College of Engineering", username: "SELVAx1257" },
-    { name: "Meenakshi M", branch: "CSC", college: "St. Joseph's College of Engineering", username: "meenakshi007" },
-    { name: "Gowtham M", branch: "CSE", college: "St. Joseph's College of Engineering", username: "GowthamM_21" },
-    { name: "Rukmangathan R P", branch: "AI", college: "St. Joseph's College of Engineering", username: "9HUi9KPB3S" },
-    { name: "Sunil N", branch: "CSE", college: "St. Joseph's College of Engineering", username: "sunil_n_21" },
-    { name: "Ashwikha S", branch: "CSE", college: "St. Joseph's College of Engineering", username: "ASHWIKHA" },
-    { name: "Gadamsetty V N Sanjana", branch: "AI", college: "St. Joseph's College of Engineering", username: "SanjanaGadamsetty" },
-    { name: "Kevin Jonathan A K", branch: "AIML", college: "St. Joseph's College of Engineering", username: "AK_Kevin" },
-    { name: "Vishnu Priya K", branch: "ECE", college: "St. Joseph's College of Engineering", username: "K_VISHNU_PRIYA" },
-    { name: "Shreyas S", branch: "CSBS", college: "St. Joseph's College of Engineering", username: "Shreyas_S1403" },
-    { name: "Mohamed Fadhil M", branch: "CSE", college: "St. Joseph's College of Engineering", username: "Mohamed_Fadhil" },
-    { name: "Rokeshwaran M", branch: "AI", college: "St. Joseph's College of Engineering", username: "tKw7goeaf5" },
-    { name: "Shruthika Suyaraj", branch: "IT", college: "St. Joseph's College of Engineering", username: "ShruthikaS_" },
-    { name: "Ashok K", branch: "AI", college: "St. Joseph's College of Engineering", username: "MR_ASHOK_06" },
-    { name: "Mohamed Rakshan S", branch: "ECE", college: "St. Joseph's College of Engineering", username: "Rakshan_Md" },
-    { name: "Anandhavel A", branch: "CSE", college: "St. Joseph's College of Engineering", username: "ANANDHAVEL019" },
-    { name: "Girish R M", branch: "ECE", college: "St. Joseph's College of Engineering", username: "rmgirish" },
-    { name: "Rishikumar D", branch: "CSC", college: "St. Joseph's College of Engineering", username: null },
-    { name: "Dhanush Kumar S", branch: "AI", college: "St. Joseph's College of Engineering", username: "Danush_kumar" },
-    { name: "Maria K Paul", branch: "MCSE", college: "St. Joseph's College of Engineering", username: "Maria_K_Paul" },
-    { name: "Balaji Sanjay A", branch: "CSE", college: "St. Joseph's College of Engineering", username: "BalajiSanjay_A" },
-    { name: "Angeline Marry D", branch: "CSC", college: "St. Joseph's College of Engineering", username: "Angeline_D07" },
-    { name: "Reyhaan S", branch: "IT", college: "St. Joseph's College of Engineering", username: "Blueundead" },
-    { name: "Karunya Adhvaidhi S", branch: "ECE", college: "St. Joseph's College of Engineering", username: "karunya_shan" },
-    { name: "Bharani P", branch: "CSBS", college: "St. Joseph's College of Engineering", username: "GsomMXg9AA" },
-    { name: "Janani B N", branch: "CSE", college: "St. Joseph's College of Engineering", username: "Janani_bn" },
-    { name: "Jaya Prathiba Prabakaran", branch: "EEE", college: "St. Joseph's College of Engineering", username: "Jaya_Prathiba" },
-    { name: "Harini G", branch: "IT", college: "St. Joseph's College of Engineering", username: "harichillin" },
-    { name: "Harish Kumar K", branch: "AI", college: "St. Joseph's College of Engineering", username: "harish_cr7" },
-    { name: "Gautham Krishna A", branch: "AIML", college: "St. Joseph's College of Engineering", username: "gautham112" },
-    { name: "Jerim W", branch: "AIML", college: "St. Joseph's College of Engineering", username: "Jerim_0510" },
-    { name: "Sivagnanavel G", branch: "AI", college: "St. Joseph's College of Engineering", username: null },
-    { name: "Pon Swetha G J", branch: "CSE", college: "St. Joseph's College of Engineering", username: "swethanishanth" },
-    { name: "Parmesh KS", branch: "AI", college: "St. Joseph's College of Engineering", username: "Parmesh_KS" },
-    { name: "Mohamed Aaqil M", branch: "AI", college: "St. Joseph's College of Engineering", username: "Aaqil_2007" },
-    { name: "Sri Varshni M", branch: "CSE", college: "St. Joseph's College of Engineering", username: null },
-    { name: "Vishanth V S", branch: "AI", college: "St. Joseph's College of Engineering", username: "vishanth_vs21" },
-    { name: "Gnanasakthi T", branch: "CSE", college: "St. Joseph's College of Engineering", username: "LC_GST" },
-    { name: "Ganeshbabu B", branch: "IT", college: "St. Joseph's College of Engineering", username: "ganeshbaabu" },
-    { name: "Sanjay Narayanan N", branch: "ECE", college: "St. Joseph's Institute of Technology", username: "SANJAYN3010" },
-    { name: "Devesh Nathan", branch: "CSE", college: "St. Joseph's Institute of Technology", username: "Devesh5Nathan" },
-    { name: "Naveen S", branch: "ECE", college: "St. Joseph's Institute of Technology", username: "8nPXgNTvdf" },
-    { name: "Kevin Joel V", branch: "CSC", college: "St. Joseph's Institute of Technology", username: "kevin08joel" },
-    { name: "Nirula V", branch: "CSE", college: "St. Joseph's Institute of Technology", username: "nirula23" },
-    { name: "Hanniel Jose", branch: "CSE", college: "St. Joseph's Institute of Technology", username: "Hanniel677" },
-    { name: "Akshaya Sriram", branch: "IT", college: "St. Joseph's Institute of Technology", username: "Akshaya_Sriram" },
-    { name: "Alekh Kumar", branch: "AI", college: "St. Joseph's Institute of Technology", username: "_alekh" },
-    { name: "Vaibhav S", branch: "AIML", college: "St. Joseph's Institute of Technology", username: "vaibhavsriram" },
-    { name: "Thulasidass R", branch: "ECE", college: "St. Joseph's Institute of Technology", username: "Thulasidass_1410" },
-    { name: "Dineshkumar V", branch: "CSE", college: "St. Joseph's Institute of Technology", username: "_Dinesh_Kumar_V" },
-    { name: "Roshan Shakthi S", branch: "CSE", college: "St. Joseph's Institute of Technology", username: "tgKu37Q3Tk" },
-    { name: "Melvin N", branch: "CSE", college: "St. Joseph's Institute of Technology", username: "Melvin_N" },
-    { name: "Harinee S", branch: "CSE", college: "St. Joseph's Institute of Technology", username: "Harinee_Suresh" },
-    { name: "Gokul Raam H R", branch: "CSE", college: "St. Joseph's Institute of Technology", username: "gokulraam03" },
-    { name: "Madhesh S", branch: "AI", college: "St. Joseph's Institute of Technology", username: "madhesh1341" },
-    { name: "Flavin M L", branch: "CSC", college: "St. Joseph's Institute of Technology", username: "Flavin07" },
-    { name: "Sree Harini R S", branch: "AI", college: "St. Joseph's Institute of Technology", username: "SREE_HARINI_R_S" },
-    { name: "Jayachandiran T V", branch: "CSE", college: "St. Joseph's Institute of Technology", username: "Jayachandirantv" },
-    { name: "Sainimal G E", branch: "IT", college: "St. Joseph's Institute of Technology", username: "AkhilGod" },
-    { name: "Pradeep Chengada K", branch: "CSE", college: "St. Joseph's Institute of Technology", username: "Pradeep_Chengada" },
-    { name: "Yuvan PM", branch: "CSC", college: "St. Joseph's Institute of Technology", username: "yuvan_gg" },
-    { name: "Muthubala K", branch: "AI", college: "St. Joseph's Institute of Technology", username: "muthu1324" },
-    { name: "Gokulraj D", branch: "AI", college: "St. Joseph's Institute of Technology", username: "gokul0410" },
-    { name: "Prazila Pearl J", branch: "CSE", college: "St. Joseph's Institute of Technology", username: "Prazi_Pearl" },
-    { name: "Prisha Adithi Murugan", branch: "AI", college: "St. Joseph's Institute of Technology", username: "Prisha_Adithi_Murugan" },
-    { name: "Guruprasath S B", branch: "AIML", college: "St. Joseph's Institute of Technology", username: "GURUPRASATHSB" },
-    { name: "Nandha Kumar M", branch: "CSE", college: "St. Joseph's Institute of Technology", username: "Nandhu2432" },
-    { name: "Jeffrin Jebuson K", branch: "CSE", college: "St. Joseph's Institute of Technology", username: "Jeffrin_1111" },
-    { name: "Sudhanjanan D V", branch: "CSE", college: "St. Joseph's Institute of Technology", username: "5FhSF6BrJO" },
-];
+const PARTICIPANTS_FILE = path.join(ROOT_DIR, 'participants.csv');
+
+function loadParticipantsFromCSV() {
+    try {
+        if (!fs.existsSync(PARTICIPANTS_FILE)) {
+            console.error('participants.csv not found!');
+            return [];
+        }
+        const content = fs.readFileSync(PARTICIPANTS_FILE, 'utf-8');
+        const lines = content.split('\n').filter(line => line.trim() !== '');
+        const headers = lines[0].split(',').map(h => h.trim());
+
+        return lines.slice(1).map(line => {
+            const values = line.split(',').map(v => v.trim());
+            const p = {};
+            headers.forEach((h, i) => {
+                let key = h.toLowerCase();
+                if (key === 'leetcode username') key = 'username';
+                if (key === 'leetcode url') key = 'leetcodeUrl';
+                p[key] = values[i] || null;
+            });
+            // Ensure consistency with previously hardcoded names if needed
+            // But CSV seems to have all necessary info
+            return p;
+        });
+    } catch (e) {
+        console.error('Error reading participants.csv:', e.message);
+        return [];
+    }
+}
+
+const PARTICIPANTS = loadParticipantsFromCSV();
+
 
 // ---------- GraphQL Query ----------
 const USER_QUERY = `
@@ -156,6 +110,9 @@ function getDefaultCache() {
             branch: p.branch,
             college: p.college,
             username: p.username,
+            phone: p.phone,
+            email: p.email,
+            leetcodeUrl: p.leetcodeUrl,
             totalSolved: 0,
             easySolved: 0,
             mediumSolved: 0,
@@ -196,6 +153,9 @@ function parseUserData(participant, raw) {
         branch: participant.branch,
         college: participant.college,
         username: participant.username,
+        phone: participant.phone,
+        email: participant.email,
+        leetcodeUrl: participant.leetcodeUrl,
     };
 
     if (!raw || !raw.matchedUser) {
@@ -247,6 +207,7 @@ async function fetchWithRetry(participant, retries = MAX_RETRIES) {
                 return {
                     name: participant.name, branch: participant.branch, college: participant.college,
                     username: participant.username,
+                    phone: participant.phone, email: participant.email, leetcodeUrl: participant.leetcodeUrl,
                     totalSolved: 0, easySolved: 0, mediumSolved: 0, hardSolved: 0,
                     contestRating: 0, contestAttend: 0, consistency30: 0, error: true,
                 };
@@ -314,6 +275,7 @@ function handleRefresh(req, res) {
         const usersWithLC = PARTICIPANTS.filter(p => p.username);
         const usersWithoutLC = PARTICIPANTS.filter(p => !p.username).map(p => ({
             name: p.name, branch: p.branch, college: p.college, username: null,
+            phone: p.phone, email: p.email, leetcodeUrl: p.leetcodeUrl,
             totalSolved: 0, easySolved: 0, mediumSolved: 0, hardSolved: 0,
             contestRating: 0, contestAttend: 0, consistency30: 0, error: false,
         }));

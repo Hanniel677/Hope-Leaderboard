@@ -1,11 +1,14 @@
 {
-  "lastUpdated": "2026-04-19T19:51:30.353Z",
+  "lastUpdated": "2026-04-19T20:06:46.298Z",
   "users": [
     {
-      "name": "Thilamaren S S",
+      "name": "THILAMAREN S S",
       "branch": "CSE",
       "college": "St. Joseph's College of Engineering",
       "username": "thilamaren_",
+      "phone": "8438104453",
+      "email": "thilamaren1@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/thilamaren_/",
       "totalSolved": 361,
       "easySolved": 190,
       "mediumSolved": 156,
@@ -16,10 +19,13 @@
       "error": false
     },
     {
-      "name": "Ganesh Kumaar B",
+      "name": "GANESH KUMAAR B",
       "branch": "AI",
       "college": "St. Joseph's College of Engineering",
       "username": "upNrLbHogs",
+      "phone": "9789994950",
+      "email": "ganesh130907@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/upNrLbHogs/",
       "totalSolved": 265,
       "easySolved": 200,
       "mediumSolved": 52,
@@ -30,10 +36,13 @@
       "error": false
     },
     {
-      "name": "Kartheesh Shankar",
+      "name": "KARTHEESH SHANKAR",
       "branch": "AIML",
       "college": "St. Joseph's College of Engineering",
       "username": "K6N78Wp7dH",
+      "phone": "7639730861",
+      "email": "kartheeshshankar@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/K6N78Wp7dH/",
       "totalSolved": 155,
       "easySolved": 88,
       "mediumSolved": 56,
@@ -44,10 +53,13 @@
       "error": false
     },
     {
-      "name": "Leon Raj J",
+      "name": "LEON RAJ J",
       "branch": "CSE",
       "college": "St. Joseph's College of Engineering",
       "username": "leonraj",
+      "phone": "7010580646",
+      "email": "leonraj1606@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/leonraj/",
       "totalSolved": 133,
       "easySolved": 92,
       "mediumSolved": 33,
@@ -58,10 +70,13 @@
       "error": false
     },
     {
-      "name": "Jayden Jeswin Raj G",
+      "name": "JAYDEN JESWIN RAJ G",
       "branch": "CSE",
       "college": "St. Joseph's College of Engineering",
       "username": "PhoenixKiller",
+      "phone": "9840063387",
+      "email": "chessp750@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/PhoenixKiller/",
       "totalSolved": 176,
       "easySolved": 75,
       "mediumSolved": 73,
@@ -72,10 +87,13 @@
       "error": false
     },
     {
-      "name": "Viviyan Prince P",
+      "name": "VIVIYAN PRINCE P",
       "branch": "CSE",
       "college": "St. Joseph's College of Engineering",
       "username": "viviyanprince1212",
+      "phone": "6380293091",
+      "email": "viviyanprince12@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/viviyanprince1212/",
       "totalSolved": 102,
       "easySolved": 68,
       "mediumSolved": 27,
@@ -86,10 +104,13 @@
       "error": false
     },
     {
-      "name": "Dhanush Raj VR",
+      "name": "DHANUSH RAJ VR",
       "branch": "AIML",
       "college": "St. Joseph's College of Engineering",
       "username": "020308",
+      "phone": "7810097079",
+      "email": "vrdhanushraj@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/020308/",
       "totalSolved": 139,
       "easySolved": 95,
       "mediumSolved": 32,
@@ -100,10 +121,13 @@
       "error": false
     },
     {
-      "name": "Harish Balaji R",
+      "name": "HARISH BALAJI R",
       "branch": "CSE",
       "college": "St. Joseph's College of Engineering",
       "username": "HarishBalajiR",
+      "phone": "8939521447",
+      "email": "harishbalajir2008@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/HarishBalajiR/",
       "totalSolved": 161,
       "easySolved": 104,
       "mediumSolved": 47,
@@ -114,10 +138,13 @@
       "error": false
     },
     {
-      "name": "Thirupathi Selvaraj V R",
+      "name": "THIRUPATHI SELVARAJ V R",
       "branch": "CSE",
       "college": "St. Joseph's College of Engineering",
       "username": "SELVAx1257",
+      "phone": "7092868198",
+      "email": "thirupathiselvaraj0506@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/SELVAx1257/",
       "totalSolved": 278,
       "easySolved": 170,
       "mediumSolved": 96,
@@ -128,10 +155,13 @@
       "error": false
     },
     {
-      "name": "Meenakshi M",
+      "name": "MEENAKSHI M",
       "branch": "CSC",
       "college": "St. Joseph's College of Engineering",
       "username": "meenakshi007",
+      "phone": "8072499117",
+      "email": "meenakshimurali007@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/meenakshi007/",
       "totalSolved": 201,
       "easySolved": 93,
       "mediumSolved": 78,
@@ -142,10 +172,13 @@
       "error": false
     },
     {
-      "name": "Gowtham M",
+      "name": "GOWTHAM M",
       "branch": "CSE",
       "college": "St. Joseph's College of Engineering",
       "username": "GowthamM_21",
+      "phone": "9382747991",
+      "email": "gowthammuthukumar21@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/GowthamM_21/",
       "totalSolved": 187,
       "easySolved": 135,
       "mediumSolved": 43,
@@ -156,10 +189,13 @@
       "error": false
     },
     {
-      "name": "Rukmangathan R P",
+      "name": "RUKMANGATHAN R P",
       "branch": "AI",
       "college": "St. Joseph's College of Engineering",
       "username": "9HUi9KPB3S",
+      "phone": "8122024312",
+      "email": "rukmangatham2007@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/9HUi9KPB3S/",
       "totalSolved": 228,
       "easySolved": 151,
       "mediumSolved": 62,
@@ -170,10 +206,13 @@
       "error": false
     },
     {
-      "name": "Sunil N",
+      "name": "SUNIL N",
       "branch": "CSE",
       "college": "St. Joseph's College of Engineering",
       "username": "sunil_n_21",
+      "phone": "9679900828",
+      "email": "sunil210606@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/sunil_n_21/",
       "totalSolved": 230,
       "easySolved": 170,
       "mediumSolved": 53,
@@ -184,10 +223,13 @@
       "error": false
     },
     {
-      "name": "Ashwikha S",
+      "name": "ASHWIKHA S",
       "branch": "CSE",
       "college": "St. Joseph's College of Engineering",
       "username": "ASHWIKHA",
+      "phone": "7200125076",
+      "email": "ashwikhas@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/ASHWIKHA/",
       "totalSolved": 159,
       "easySolved": 113,
       "mediumSolved": 38,
@@ -198,10 +240,13 @@
       "error": false
     },
     {
-      "name": "Gadamsetty V N Sanjana",
+      "name": "GADAMSETTY VENKATA NAGALAKSHMI SANJANA",
       "branch": "AI",
       "college": "St. Joseph's College of Engineering",
       "username": "SanjanaGadamsetty",
+      "phone": "7845715997",
+      "email": "sanjanagadamsetty@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/SanjanaGadamsetty/",
       "totalSolved": 187,
       "easySolved": 120,
       "mediumSolved": 55,
@@ -212,10 +257,13 @@
       "error": false
     },
     {
-      "name": "Kevin Jonathan A K",
+      "name": "KEVIN JONATHAN A K",
       "branch": "AIML",
       "college": "St. Joseph's College of Engineering",
       "username": "AK_Kevin",
+      "phone": "7305307529",
+      "email": "kevinak2007@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/AK_Kevin/",
       "totalSolved": 192,
       "easySolved": 111,
       "mediumSolved": 68,
@@ -226,10 +274,13 @@
       "error": false
     },
     {
-      "name": "Vishnu Priya K",
+      "name": "VISHNU PRIYA K",
       "branch": "ECE",
       "college": "St. Joseph's College of Engineering",
       "username": "K_VISHNU_PRIYA",
+      "phone": "8778209607",
+      "email": "krvishnupriya07@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/K_VISHNU_PRIYA/",
       "totalSolved": 126,
       "easySolved": 76,
       "mediumSolved": 42,
@@ -240,10 +291,13 @@
       "error": false
     },
     {
-      "name": "Shreyas S",
+      "name": "SHREYAS S",
       "branch": "CSBS",
       "college": "St. Joseph's College of Engineering",
       "username": "Shreyas_S1403",
+      "phone": "9840429400",
+      "email": "shreyas.sredar@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Shreyas_S1403/",
       "totalSolved": 133,
       "easySolved": 84,
       "mediumSolved": 41,
@@ -254,10 +308,13 @@
       "error": false
     },
     {
-      "name": "Mohamed Fadhil M",
+      "name": "MOHAMED FADHIL M",
       "branch": "CSE",
       "college": "St. Joseph's College of Engineering",
       "username": "Mohamed_Fadhil",
+      "phone": "8148196006",
+      "email": "mmohamedfadhil2007@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Mohamed_Fadhil/",
       "totalSolved": 162,
       "easySolved": 100,
       "mediumSolved": 50,
@@ -268,10 +325,13 @@
       "error": false
     },
     {
-      "name": "Rokeshwaran M",
+      "name": "ROKESHWARAN M",
       "branch": "AI",
       "college": "St. Joseph's College of Engineering",
       "username": "tKw7goeaf5",
+      "phone": "8124056777",
+      "email": "rokeshwaran2008@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/tKw7goeaf5/",
       "totalSolved": 185,
       "easySolved": 125,
       "mediumSolved": 46,
@@ -282,10 +342,13 @@
       "error": false
     },
     {
-      "name": "Shruthika Suyaraj",
+      "name": "SHRUTHIKA SUYARAJ",
       "branch": "IT",
       "college": "St. Joseph's College of Engineering",
       "username": "ShruthikaS_",
+      "phone": "9840734261",
+      "email": "shruthikasuyaraj@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/ShruthikaS_/",
       "totalSolved": 116,
       "easySolved": 86,
       "mediumSolved": 25,
@@ -296,10 +359,13 @@
       "error": false
     },
     {
-      "name": "Ashok K",
+      "name": "ASHOK K",
       "branch": "AI",
       "college": "St. Joseph's College of Engineering",
       "username": "MR_ASHOK_06",
+      "phone": "8072014509",
+      "email": "ashokkanakaraj9595@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/MR_ASHOK_06/",
       "totalSolved": 195,
       "easySolved": 126,
       "mediumSolved": 57,
@@ -310,10 +376,13 @@
       "error": false
     },
     {
-      "name": "Mohamed Rakshan S",
+      "name": "MOHAMED RAKSHAN S",
       "branch": "ECE",
       "college": "St. Joseph's College of Engineering",
       "username": "Rakshan_Md",
+      "phone": "7305503159",
+      "email": "rakshan3284@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Rakshan_Md/",
       "totalSolved": 166,
       "easySolved": 107,
       "mediumSolved": 48,
@@ -324,10 +393,13 @@
       "error": false
     },
     {
-      "name": "Anandhavel A",
+      "name": "ANANDHAVEL A",
       "branch": "CSE",
       "college": "St. Joseph's College of Engineering",
       "username": "ANANDHAVEL019",
+      "phone": "8870050840",
+      "email": "anandhavel2902@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/ANANDHAVEL019/",
       "totalSolved": 244,
       "easySolved": 192,
       "mediumSolved": 46,
@@ -338,10 +410,13 @@
       "error": false
     },
     {
-      "name": "Girish R M",
+      "name": "GIRISH R M",
       "branch": "ECE",
       "college": "St. Joseph's College of Engineering",
       "username": "rmgirish",
+      "phone": "7395903008",
+      "email": "girishrajesh08@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/rmgirish/",
       "totalSolved": 224,
       "easySolved": 154,
       "mediumSolved": 60,
@@ -352,10 +427,13 @@
       "error": false
     },
     {
-      "name": "Dhanush Kumar S",
+      "name": "DHANUSH KUMAR S",
       "branch": "AI",
       "college": "St. Joseph's College of Engineering",
       "username": "Danush_kumar",
+      "phone": "8220830975",
+      "email": "sdanushkumar14@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Danush_kumar/",
       "totalSolved": 78,
       "easySolved": 51,
       "mediumSolved": 21,
@@ -366,10 +444,13 @@
       "error": false
     },
     {
-      "name": "Maria K Paul",
+      "name": "MARIA K PAUL",
       "branch": "MCSE",
       "college": "St. Joseph's College of Engineering",
       "username": "Maria_K_Paul",
+      "phone": "7397256970",
+      "email": "mariakpaul10@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Maria_K_Paul/",
       "totalSolved": 83,
       "easySolved": 48,
       "mediumSolved": 26,
@@ -380,10 +461,13 @@
       "error": false
     },
     {
-      "name": "Balaji Sanjay A",
+      "name": "BALAJI SANJAY A",
       "branch": "CSE",
       "college": "St. Joseph's College of Engineering",
       "username": "BalajiSanjay_A",
+      "phone": "6380809467",
+      "email": "abalajisanjay@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/BalajiSanjay_A/",
       "totalSolved": 221,
       "easySolved": 152,
       "mediumSolved": 61,
@@ -394,10 +478,13 @@
       "error": false
     },
     {
-      "name": "Angeline Marry D",
+      "name": "ANGELINE MARRY D",
       "branch": "CSC",
       "college": "St. Joseph's College of Engineering",
       "username": "Angeline_D07",
+      "phone": "9360458378",
+      "email": "angelinemarryd3142@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Angeline_D07/",
       "totalSolved": 101,
       "easySolved": 69,
       "mediumSolved": 27,
@@ -408,10 +495,13 @@
       "error": false
     },
     {
-      "name": "Reyhaan S",
+      "name": "REYHAAN S",
       "branch": "IT",
       "college": "St. Joseph's College of Engineering",
       "username": "Blueundead",
+      "phone": "8668112418",
+      "email": "rsvalor.2007@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Blueundead/",
       "totalSolved": 78,
       "easySolved": 41,
       "mediumSolved": 29,
@@ -422,10 +512,13 @@
       "error": false
     },
     {
-      "name": "Karunya Adhvaidhi S",
+      "name": "KARUNYA ADHVAIDHI S",
       "branch": "ECE",
       "college": "St. Joseph's College of Engineering",
       "username": "karunya_shan",
+      "phone": "8807921653",
+      "email": "karunyaadhvaidhishanmugam@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/karunya_shan/",
       "totalSolved": 2,
       "easySolved": 2,
       "mediumSolved": 0,
@@ -436,10 +529,13 @@
       "error": false
     },
     {
-      "name": "Bharani P",
+      "name": "BHARANI P",
       "branch": "CSBS",
       "college": "St. Joseph's College of Engineering",
       "username": "GsomMXg9AA",
+      "phone": "7397576317",
+      "email": "bharani.p.11@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/GsomMXg9AA/",
       "totalSolved": 0,
       "easySolved": 0,
       "mediumSolved": 0,
@@ -450,10 +546,13 @@
       "error": true
     },
     {
-      "name": "Janani B N",
+      "name": "JANANI B N",
       "branch": "CSE",
       "college": "St. Joseph's College of Engineering",
       "username": "Janani_bn",
+      "phone": "8438037381",
+      "email": "bnjanani258@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Janani_bn/",
       "totalSolved": 168,
       "easySolved": 120,
       "mediumSolved": 41,
@@ -464,10 +563,13 @@
       "error": false
     },
     {
-      "name": "Jaya Prathiba Prabakaran",
+      "name": "JAYA PRATHIBA PRABAKARAN",
       "branch": "EEE",
       "college": "St. Joseph's College of Engineering",
       "username": "Jaya_Prathiba",
+      "phone": "8667746285",
+      "email": "prabhu231978@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Jaya_Prathiba/",
       "totalSolved": 142,
       "easySolved": 104,
       "mediumSolved": 32,
@@ -478,10 +580,13 @@
       "error": false
     },
     {
-      "name": "Harini G",
+      "name": "HARINI G",
       "branch": "IT",
       "college": "St. Joseph's College of Engineering",
       "username": "harichillin",
+      "phone": "9445807005",
+      "email": "harinig1818@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/harichillin/",
       "totalSolved": 161,
       "easySolved": 88,
       "mediumSolved": 56,
@@ -492,10 +597,13 @@
       "error": false
     },
     {
-      "name": "Harish Kumar K",
+      "name": "HARISH KUMAR K",
       "branch": "AI",
       "college": "St. Joseph's College of Engineering",
       "username": "harish_cr7",
+      "phone": "8190092132",
+      "email": "k.harish2k8@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/harish_cr7/",
       "totalSolved": 145,
       "easySolved": 120,
       "mediumSolved": 19,
@@ -506,10 +614,13 @@
       "error": false
     },
     {
-      "name": "Gautham Krishna A",
+      "name": "GAUTHAM KRISHNA A",
       "branch": "AIML",
       "college": "St. Joseph's College of Engineering",
       "username": "gautham112",
+      "phone": "8220641102",
+      "email": "gauthamkrishna1102@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/gautham112/",
       "totalSolved": 156,
       "easySolved": 92,
       "mediumSolved": 50,
@@ -520,10 +631,13 @@
       "error": false
     },
     {
-      "name": "Jerim W",
+      "name": "JERIM W",
       "branch": "AIML",
       "college": "St. Joseph's College of Engineering",
       "username": "Jerim_0510",
+      "phone": "8870174900",
+      "email": "jerimjoel12@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Jerim_0510/",
       "totalSolved": 139,
       "easySolved": 80,
       "mediumSolved": 45,
@@ -534,10 +648,13 @@
       "error": false
     },
     {
-      "name": "Pon Swetha G J",
+      "name": "PON SWETHA G J",
       "branch": "CSE",
       "college": "St. Joseph's College of Engineering",
       "username": "swethanishanth",
+      "phone": "8807014650",
+      "email": "swethanishanth321@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/swethanishanth/",
       "totalSolved": 104,
       "easySolved": 49,
       "mediumSolved": 44,
@@ -548,10 +665,13 @@
       "error": false
     },
     {
-      "name": "Parmesh KS",
+      "name": "PARMESH KS",
       "branch": "AI",
       "college": "St. Joseph's College of Engineering",
       "username": "Parmesh_KS",
+      "phone": "9345573017",
+      "email": "ksparu12@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Parmesh_KS/",
       "totalSolved": 215,
       "easySolved": 176,
       "mediumSolved": 36,
@@ -562,10 +682,13 @@
       "error": false
     },
     {
-      "name": "Mohamed Aaqil M",
+      "name": "MOHAMED AAQIL M",
       "branch": "AI",
       "college": "St. Joseph's College of Engineering",
       "username": "Aaqil_2007",
+      "phone": "7904578342",
+      "email": "mmdaaqil27112007@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Aaqil_2007/",
       "totalSolved": 205,
       "easySolved": 111,
       "mediumSolved": 82,
@@ -576,10 +699,13 @@
       "error": false
     },
     {
-      "name": "Vishanth V S",
+      "name": "VISHANTH V S",
       "branch": "AI",
       "college": "St. Joseph's College of Engineering",
       "username": "vishanth_vs21",
+      "phone": "9150829787",
+      "email": "vishanthv07@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/vishanth_vs21/",
       "totalSolved": 233,
       "easySolved": 171,
       "mediumSolved": 55,
@@ -590,10 +716,13 @@
       "error": false
     },
     {
-      "name": "Gnanasakthi T",
+      "name": "GNANASAKTHI T",
       "branch": "CSE",
       "college": "St. Joseph's College of Engineering",
       "username": "LC_GST",
+      "phone": "9442647865",
+      "email": "hello.this.is.gst@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/LC_GST/",
       "totalSolved": 181,
       "easySolved": 111,
       "mediumSolved": 63,
@@ -604,10 +733,13 @@
       "error": false
     },
     {
-      "name": "Ganeshbabu B",
+      "name": "GANESHBABU B",
       "branch": "IT",
       "college": "St. Joseph's College of Engineering",
       "username": "ganeshbaabu",
+      "phone": "8870464484",
+      "email": "ganeshbaabu16@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/ganeshbaabu/",
       "totalSolved": 192,
       "easySolved": 140,
       "mediumSolved": 45,
@@ -618,10 +750,13 @@
       "error": false
     },
     {
-      "name": "Sanjay Narayanan N",
+      "name": "SANJAY NARAYANAN N",
       "branch": "ECE",
       "college": "St. Joseph's Institute of Technology",
       "username": "SANJAYN3010",
+      "phone": "8248637100",
+      "email": "sanjay.narayanan3010@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/SANJAYN3010/",
       "totalSolved": 172,
       "easySolved": 84,
       "mediumSolved": 78,
@@ -632,10 +767,13 @@
       "error": false
     },
     {
-      "name": "Devesh Nathan",
+      "name": "DEVESH NATHAN",
       "branch": "CSE",
       "college": "St. Joseph's Institute of Technology",
       "username": "Devesh5Nathan",
+      "phone": "6374218962",
+      "email": "devesh5nathan@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Devesh5Nathan/",
       "totalSolved": 125,
       "easySolved": 66,
       "mediumSolved": 48,
@@ -646,10 +784,13 @@
       "error": false
     },
     {
-      "name": "Naveen S",
+      "name": "NAVEEN S",
       "branch": "ECE",
       "college": "St. Joseph's Institute of Technology",
       "username": "8nPXgNTvdf",
+      "phone": "9841785185",
+      "email": "snaveen0907@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/8nPXgNTvdf/",
       "totalSolved": 124,
       "easySolved": 68,
       "mediumSolved": 47,
@@ -660,10 +801,13 @@
       "error": false
     },
     {
-      "name": "Kevin Joel V",
+      "name": "KEVIN JOEL V",
       "branch": "CSC",
       "college": "St. Joseph's Institute of Technology",
       "username": "kevin08joel",
+      "phone": "7092746404",
+      "email": "kevin08joel.jc2008@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/kevin08joel/",
       "totalSolved": 152,
       "easySolved": 93,
       "mediumSolved": 52,
@@ -674,10 +818,13 @@
       "error": false
     },
     {
-      "name": "Nirula V",
+      "name": "NIRULA V",
       "branch": "CSE",
       "college": "St. Joseph's Institute of Technology",
       "username": "nirula23",
+      "phone": "9345705192",
+      "email": "nirula2377@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/nirula23/",
       "totalSolved": 195,
       "easySolved": 131,
       "mediumSolved": 59,
@@ -688,10 +835,13 @@
       "error": false
     },
     {
-      "name": "Hanniel Jose",
+      "name": "HANNIEL JOSE",
       "branch": "CSE",
       "college": "St. Joseph's Institute of Technology",
       "username": "Hanniel677",
+      "phone": "9342205167",
+      "email": "hannieljose52@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Hanniel677/",
       "totalSolved": 185,
       "easySolved": 118,
       "mediumSolved": 57,
@@ -702,10 +852,13 @@
       "error": false
     },
     {
-      "name": "Akshaya Sriram",
+      "name": "AKSHAYA SRIRAM",
       "branch": "IT",
       "college": "St. Joseph's Institute of Technology",
       "username": "Akshaya_Sriram",
+      "phone": "9566131698",
+      "email": "akshayasriram85@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Akshaya_Sriram/",
       "totalSolved": 213,
       "easySolved": 156,
       "mediumSolved": 46,
@@ -716,10 +869,13 @@
       "error": false
     },
     {
-      "name": "Alekh Kumar",
+      "name": "ALEKH KUMAR",
       "branch": "AI",
       "college": "St. Joseph's Institute of Technology",
       "username": "_alekh",
+      "phone": "8252884656",
+      "email": "alekhsub@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/_alekh/",
       "totalSolved": 302,
       "easySolved": 147,
       "mediumSolved": 132,
@@ -730,10 +886,13 @@
       "error": false
     },
     {
-      "name": "Vaibhav S",
+      "name": "VAIBHAV S",
       "branch": "AIML",
       "college": "St. Joseph's Institute of Technology",
       "username": "vaibhavsriram",
+      "phone": "9204379136",
+      "email": "vaibhavsriram.2025@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/vaibhavsriram/",
       "totalSolved": 112,
       "easySolved": 30,
       "mediumSolved": 66,
@@ -744,10 +903,13 @@
       "error": false
     },
     {
-      "name": "Thulasidass R",
+      "name": "THULASIDASS R",
       "branch": "ECE",
       "college": "St. Joseph's Institute of Technology",
       "username": "Thulasidass_1410",
+      "phone": "9363796925",
+      "email": "thulasidass.ravi@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Thulasidass_1410/",
       "totalSolved": 5,
       "easySolved": 4,
       "mediumSolved": 1,
@@ -758,10 +920,13 @@
       "error": false
     },
     {
-      "name": "Dineshkumar V",
+      "name": "DINESHKUMAR V",
       "branch": "CSE",
       "college": "St. Joseph's Institute of Technology",
       "username": "_Dinesh_Kumar_V",
+      "phone": "9363345829",
+      "email": null,
+      "leetcodeUrl": "https://leetcode.com/u/_Dinesh_Kumar_V/",
       "totalSolved": 191,
       "easySolved": 135,
       "mediumSolved": 49,
@@ -772,10 +937,13 @@
       "error": false
     },
     {
-      "name": "Roshan Shakthi S",
+      "name": "ROSHAN SHAKTHI S",
       "branch": "CSE",
       "college": "St. Joseph's Institute of Technology",
       "username": "tgKu37Q3Tk",
+      "phone": "8148531146",
+      "email": "roshanshakthi2007@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/tgKu37Q3Tk/",
       "totalSolved": 112,
       "easySolved": 60,
       "mediumSolved": 40,
@@ -786,10 +954,13 @@
       "error": false
     },
     {
-      "name": "Melvin N",
+      "name": "MELVIN N",
       "branch": "CSE",
       "college": "St. Joseph's Institute of Technology",
       "username": "Melvin_N",
+      "phone": "9790918698",
+      "email": "melvin.2025.n@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Melvin_N/",
       "totalSolved": 135,
       "easySolved": 64,
       "mediumSolved": 60,
@@ -800,10 +971,13 @@
       "error": false
     },
     {
-      "name": "Harinee S",
+      "name": "HARINEE S",
       "branch": "CSE",
       "college": "St. Joseph's Institute of Technology",
       "username": "Harinee_Suresh",
+      "phone": "8220822138",
+      "email": "harineesureshkumar@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Harinee_Suresh/",
       "totalSolved": 108,
       "easySolved": 77,
       "mediumSolved": 24,
@@ -814,10 +988,13 @@
       "error": false
     },
     {
-      "name": "Gokul Raam H R",
+      "name": "GOKUL RAAM H R",
       "branch": "CSE",
       "college": "St. Joseph's Institute of Technology",
       "username": "gokulraam03",
+      "phone": "7867025458",
+      "email": "gokulraam60@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/gokulraam03/",
       "totalSolved": 110,
       "easySolved": 56,
       "mediumSolved": 39,
@@ -828,10 +1005,13 @@
       "error": false
     },
     {
-      "name": "Madhesh S",
+      "name": "MADHESH S",
       "branch": "AI",
       "college": "St. Joseph's Institute of Technology",
       "username": "madhesh1341",
+      "phone": "9840067760",
+      "email": "madhesh281207@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/madhesh1341/",
       "totalSolved": 127,
       "easySolved": 78,
       "mediumSolved": 38,
@@ -842,10 +1022,13 @@
       "error": false
     },
     {
-      "name": "Flavin M L",
+      "name": "FLAVIN M L",
       "branch": "CSC",
       "college": "St. Joseph's Institute of Technology",
       "username": "Flavin07",
+      "phone": "9840307384",
+      "email": "flavinml07@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Flavin07/",
       "totalSolved": 87,
       "easySolved": 44,
       "mediumSolved": 35,
@@ -856,10 +1039,13 @@
       "error": false
     },
     {
-      "name": "Sree Harini R S",
+      "name": "SREE HARINI R S",
       "branch": "AI",
       "college": "St. Joseph's Institute of Technology",
       "username": "SREE_HARINI_R_S",
+      "phone": "9080590253",
+      "email": "lolarushttre@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/SREE_HARINI_R_S/",
       "totalSolved": 71,
       "easySolved": 45,
       "mediumSolved": 21,
@@ -870,10 +1056,13 @@
       "error": false
     },
     {
-      "name": "Jayachandiran T V",
+      "name": "JAYACHANDIRAN T V",
       "branch": "CSE",
       "college": "St. Joseph's Institute of Technology",
       "username": "Jayachandirantv",
+      "phone": "9345809974",
+      "email": "jayachandirantv@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Jayachandirantv/",
       "totalSolved": 159,
       "easySolved": 75,
       "mediumSolved": 68,
@@ -884,10 +1073,13 @@
       "error": false
     },
     {
-      "name": "Sainimal G E",
+      "name": "SAINIMAL G E",
       "branch": "IT",
       "college": "St. Joseph's Institute of Technology",
       "username": "AkhilGod",
+      "phone": "9840893911",
+      "email": "sainimal1ba@gmal.com",
+      "leetcodeUrl": "https://leetcode.com/u/AkhilGod/",
       "totalSolved": 267,
       "easySolved": 139,
       "mediumSolved": 120,
@@ -898,10 +1090,13 @@
       "error": false
     },
     {
-      "name": "Pradeep Chengada K",
+      "name": "PRADEEP CHENGADA K",
       "branch": "CSE",
       "college": "St. Joseph's Institute of Technology",
       "username": "Pradeep_Chengada",
+      "phone": "7305516731",
+      "email": "pradeepchengada22@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Pradeep_Chengada/",
       "totalSolved": 76,
       "easySolved": 59,
       "mediumSolved": 14,
@@ -912,10 +1107,13 @@
       "error": false
     },
     {
-      "name": "Yuvan PM",
+      "name": "YUVAN PM",
       "branch": "CSC",
       "college": "St. Joseph's Institute of Technology",
       "username": "yuvan_gg",
+      "phone": "9345423966",
+      "email": "yuvan79p@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/yuvan_gg/",
       "totalSolved": 137,
       "easySolved": 94,
       "mediumSolved": 36,
@@ -926,10 +1124,13 @@
       "error": false
     },
     {
-      "name": "Muthubala K",
+      "name": "MUTHUBALA K",
       "branch": "AI",
       "college": "St. Joseph's Institute of Technology",
       "username": "muthu1324",
+      "phone": "7639736519",
+      "email": "muthubala0608@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/muthu1324/",
       "totalSolved": 108,
       "easySolved": 63,
       "mediumSolved": 34,
@@ -940,10 +1141,13 @@
       "error": false
     },
     {
-      "name": "Gokulraj D",
+      "name": "GOKULRAJ D",
       "branch": "AI",
       "college": "St. Joseph's Institute of Technology",
       "username": "gokul0410",
+      "phone": "8220135328",
+      "email": "gokuldhana04@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/gokul0410/",
       "totalSolved": 157,
       "easySolved": 79,
       "mediumSolved": 67,
@@ -954,10 +1158,13 @@
       "error": false
     },
     {
-      "name": "Prazila Pearl J",
+      "name": "PRAZILA PEARL J",
       "branch": "CSE",
       "college": "St. Joseph's Institute of Technology",
       "username": "Prazi_Pearl",
+      "phone": "6383587393",
+      "email": "prazipearl07@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Prazi_Pearl/",
       "totalSolved": 74,
       "easySolved": 54,
       "mediumSolved": 15,
@@ -968,10 +1175,13 @@
       "error": false
     },
     {
-      "name": "Prisha Adithi Murugan",
+      "name": "PRISHA ADITHI MURUGAN",
       "branch": "AI",
       "college": "St. Joseph's Institute of Technology",
       "username": "Prisha_Adithi_Murugan",
+      "phone": "8148249758",
+      "email": "prisha.adithi19@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Prisha_Adithi_Murugan/",
       "totalSolved": 134,
       "easySolved": 82,
       "mediumSolved": 43,
@@ -982,10 +1192,13 @@
       "error": false
     },
     {
-      "name": "Guruprasath S B",
+      "name": "GURUPRASATH S B",
       "branch": "AIML",
       "college": "St. Joseph's Institute of Technology",
       "username": "GURUPRASATHSB",
+      "phone": "7708942123",
+      "email": "sb.guruprasath77@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/GURUPRASATHSB/",
       "totalSolved": 179,
       "easySolved": 153,
       "mediumSolved": 21,
@@ -996,10 +1209,13 @@
       "error": false
     },
     {
-      "name": "Nandha Kumar M",
+      "name": "NANDHA KUMAR M",
       "branch": "CSE",
       "college": "St. Joseph's Institute of Technology",
       "username": "Nandhu2432",
+      "phone": "9840891056",
+      "email": "nandhakumarm2007@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Nandhu2432/",
       "totalSolved": 185,
       "easySolved": 128,
       "mediumSolved": 51,
@@ -1010,10 +1226,13 @@
       "error": false
     },
     {
-      "name": "Jeffrin Jebuson K",
+      "name": "JEFFRIN JEBUSON K",
       "branch": "CSE",
       "college": "St. Joseph's Institute of Technology",
       "username": "Jeffrin_1111",
+      "phone": "7845307742",
+      "email": "jebusonjeffrin@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/Jeffrin_1111/",
       "totalSolved": 207,
       "easySolved": 96,
       "mediumSolved": 96,
@@ -1024,10 +1243,13 @@
       "error": false
     },
     {
-      "name": "Sudhanjanan D V",
+      "name": "SUDHANJANAN D V",
       "branch": "CSE",
       "college": "St. Joseph's Institute of Technology",
       "username": "5FhSF6BrJO",
+      "phone": "9940090887",
+      "email": "sudhanjananvelpandian@gmail.com",
+      "leetcodeUrl": "https://leetcode.com/u/5FhSF6BrJO/",
       "totalSolved": 136,
       "easySolved": 66,
       "mediumSolved": 55,
@@ -1038,10 +1260,13 @@
       "error": false
     },
     {
-      "name": "Rishikumar D",
+      "name": "RISHIKUMAR D",
       "branch": "CSC",
       "college": "St. Joseph's College of Engineering",
       "username": null,
+      "phone": null,
+      "email": null,
+      "leetcodeUrl": null,
       "totalSolved": 0,
       "easySolved": 0,
       "mediumSolved": 0,
@@ -1052,10 +1277,13 @@
       "error": false
     },
     {
-      "name": "Sivagnanavel G",
+      "name": "SIVAGNANAVEL G",
       "branch": "AI",
       "college": "St. Joseph's College of Engineering",
       "username": null,
+      "phone": "8344354893",
+      "email": "sivagnanavilcr@gmail.com",
+      "leetcodeUrl": null,
       "totalSolved": 0,
       "easySolved": 0,
       "mediumSolved": 0,
@@ -1066,10 +1294,13 @@
       "error": false
     },
     {
-      "name": "Sri Varshni M",
+      "name": "SRI VARSHNI M",
       "branch": "CSE",
       "college": "St. Joseph's College of Engineering",
       "username": null,
+      "phone": "7548862959",
+      "email": "srivarshnimuthu07@gmail.com",
+      "leetcodeUrl": null,
       "totalSolved": 0,
       "easySolved": 0,
       "mediumSolved": 0,

@@ -26,6 +26,15 @@ const dom = {
     collegeFilter: () => document.getElementById('collegeFilter'),
     branchFilter: () => document.getElementById('branchFilter'),
     refreshBtn: () => document.getElementById('refreshBtn'),
+    // Modal
+    modal: () => document.getElementById('profileModal'),
+    modalClose: () => document.getElementById('closeModal'),
+    modalAvatar: () => document.getElementById('modalAvatar'),
+    modalName: () => document.getElementById('modalName'),
+    modalBadge: () => document.getElementById('modalBadge'),
+    modalPhone: () => document.getElementById('modalPhone'),
+    modalEmail: () => document.getElementById('modalEmail'),
+    modalLeetCode: () => document.getElementById('modalLeetCode'),
 };
 
 // ---------- Utilities ----------
@@ -56,6 +65,50 @@ function getInitials(name) {
 function collegeShortName(college) {
     if (college && college.includes('Institute')) return 'SJIT';
     return 'SJCE';
+}
+
+// ---------- Modal Logic ----------
+function showProfileModal(user) {
+    const modal = dom.modal();
+    const avatar = dom.modalAvatar();
+    const name = dom.modalName();
+    const badge = dom.modalBadge();
+    const phone = dom.modalPhone();
+    const email = dom.modalEmail();
+    const leetcode = dom.modalLeetCode();
+
+    avatar.style.background = getAvatarColor(user.name);
+    avatar.textContent = getInitials(user.name);
+    name.textContent = user.name;
+    badge.textContent = `${collegeShortName(user.college)} · ${user.branch}`;
+
+    if (user.phone) {
+        phone.textContent = user.phone;
+        phone.href = `tel:${user.phone}`;
+    } else {
+        phone.textContent = 'Not available';
+        phone.href = '#';
+    }
+
+    if (user.email) {
+        email.textContent = user.email;
+        email.href = `mailto:${user.email}`;
+    } else {
+        email.textContent = 'Not available';
+        email.href = '#';
+    }
+
+    const profileUrl = user.leetcodeUrl || (user.username ? `https://leetcode.com/u/${user.username}/` : '#');
+    leetcode.href = profileUrl;
+    leetcode.style.display = profileUrl === '#' ? 'none' : 'flex';
+
+    modal.classList.add('active');
+    document.body.style.overflow = 'hidden'; // Prevent scrolling
+}
+
+function closeProfileModal() {
+    dom.modal().classList.remove('active');
+    document.body.style.overflow = '';
 }
 
 // ---------- Data Loading (from server cache) ----------
@@ -259,7 +312,7 @@ function renderTable(data) {
                 <div class="name-cell">
                     <div class="avatar" style="background:${avatarColor}">${initials}</div>
                     <div class="name-info">
-                        <div class="name-text">${nameLink}</div>
+                        <div class="name-text">${entry.name}</div>
                         <div class="name-badge">${badge}</div>
                     </div>
                 </div>
@@ -284,6 +337,7 @@ function renderTable(data) {
             </td>
         `;
 
+        tr.addEventListener('click', () => showProfileModal(entry));
         tbody.appendChild(tr);
     });
 }
@@ -386,6 +440,15 @@ function setupEventListeners() {
             }
             sortAndRender();
         });
+    });
+
+    // Modal Close
+    dom.modalClose().addEventListener('click', () => closeProfileModal());
+    dom.modal().addEventListener('click', (e) => {
+        if (e.target === dom.modal()) closeProfileModal();
+    });
+    window.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') closeProfileModal();
     });
 }
 
