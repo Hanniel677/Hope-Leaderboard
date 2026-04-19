@@ -697,6 +697,16 @@ body {
     }
 }
 
+/* ---- Info Icon (table header) ---- */
+.info-icon {
+    display: inline;
+    font-size: 0.7rem;
+    opacity: 0.5;
+    cursor: help;
+    vertical-align: middle;
+    margin-left: 2px;
+}
+
 /* ---- Tooltip ---- */
 [data-tooltip] {
     position: relative;
